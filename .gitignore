@@ -30,6 +30,9 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+/android/app/google-services.json
+/ios/Runner/GoogleService-Info.plist
+/lib/ApiKeys/api_keys.dart
 
 # Symbolication related
 app.*.symbols
@@ -42,4 +45,3 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-gitignorecheck.txt
